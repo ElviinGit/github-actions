@@ -1,0 +1,12 @@
+#Virtual environment
+venv/
+
+#compiled python files
+__pycache__/
+
+#configuration files
+.env
+
+#compiled pytest cache files
+.pytest_cache
+
